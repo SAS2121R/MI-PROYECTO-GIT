@@ -15,18 +15,19 @@
 
      _Las principales razones para usar docker es la siguiente:_
 
-     1.** Envia el software más rápido:** La frecuencia media de envío de software de los usuarios de Docker es siete veces superior a la de aquellos que no lo usan.
+     1.**Envia el software más rápido:** La frecuencia media de envío de software de los usuarios de Docker es siete veces superior a la de aquellos que no lo usan.
 
      2.**Estandariza las operaciones:** Las aplicaciones con contenedores facilitan la implementación, la identificación de problemas y el retorno a una fase anterior para remediarlos.
 
      3.**Transfiere de manera sencilla:** Las aplicaciones basadas en Docker pueden transferirse a la perfección desde equipos de desarrollo locales a implementaciones de producción en AWS.
 
-     4.** Ahorra dinero:** Los contenedores de Docker facilitan la ejecución de más código en cada servidor, mejorando su uso y ahorrándole dinero.
+     4.**Ahorra dinero:** Los contenedores de Docker facilitan la ejecución de más código en cada servidor, mejorando su uso y ahorrándole dinero.
 
 
 
-         | Herramientas de administracion | Descripción  |  orquestadores relacionados |
-    | ----------------------------------- | ------------ | --------------------------- |
+         
+    | Herramientas de administracion | Descripción  |  orquestadores relacionados |
+    | --------- | --------- | --------- |
     | Azure Monitor para contenedores| Herramienta de administración de Kubernetes dedicada a Azure. | Azure Kubernetes Services (AKS)|
     | Interfaz de usuario web de Kubernetes (panel) | Herramienta de administración de Kubernetes que puede supervisar y administrar un clúster local de Kubernetes.| Azure Kubernetes Service |
     | Azure Portal para Service Fabric Azure Service Fabric Explorer| Versión de escritorio y en línea para administrar clústeres de Service Fabric en Azure | Azure Service Fabric|
