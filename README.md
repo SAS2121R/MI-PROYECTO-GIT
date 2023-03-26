@@ -1,7 +1,7 @@
 
 1. ## DOCKER
 
-3. ### índice
+3. ### Índice
 
     - [Intro](https://es.wikipedia.org/wiki/Docker_(software) 
     - [Creación] (https://www.hostinger.mx/tutoriales/como-crear-contenedor-docker)
@@ -10,19 +10,19 @@
     - [Administración de contenedores y clusters de Docker](https://learn.microsoft.com/es-es/dotnet/architecture/containerized-lifecycle/run-manage-monitor-docker-environments/manage-production-docker-environments)
 
 #### Introducción: ¿Qué es? 
-   > Es un proyecto de codigo abierto para automatizar la implementación de aplicaciones , Docker fue liderado por Salomon Hykes , como un proyecto interno dentro de la empresa dotCloud.Docker     fue lanzado como codigo abierto en Marzo del 2013. Docker facilita el proceso de creación y diseño de contenedores,el envio de imagenes y creación de versiones de imagen.
+    Es un proyecto de codigo abierto para automatizar la implementación de aplicaciones , Docker fue liderado por Salomon Hykes , como un proyecto interno dentro de la empresa dotCloud.Docker     fue lanzado como codigo abierto en Marzo del 2013. Docker facilita el proceso de creación y diseño de contenedores,el envio de imagenes y creación de versiones de imagen.
      Los contenedores se usan como máquinas virtuales , pero a diferencia de las máquinas virtuales suelen utilizarse para levantar máquinas independientes con sistemas operativos muy ligeros.
      Realmente un contenedor de docker es una imagen de docker instanciada o en ejecución.
 
      ![Logo de Docker](https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png "Logo de Docker")
 
 #### Creación de Dockers
-     > Los contenedores Docker ejecutan instancias de imágenes Docker. Ejecutar una imagen crea un contenedor Docker. Las imágenes proporcionan una plantilla que se puede utilizar para la creación de contenedores. Estas contienen la información que se requiere para crear contenedores. Las imágenes pueden almacenarse localmente o remotamente.
+      Los contenedores Docker ejecutan instancias de imágenes Docker. Ejecutar una imagen crea un contenedor Docker. Las imágenes proporcionan una plantilla que se puede utilizar para la creación de contenedores. Estas contienen la información que se requiere para crear contenedores. Las imágenes pueden almacenarse localmente o remotamente.
 
      Para instalar Docker, dependiendo de qué sistema operativo utilices, solo hay que ir a su web de documentación oficial y seguir las instrucciones: https://docs.docker.com/install/#supported-platforms
      
 #### Orquestación
-    > Las herramientas de orquestación permiten manejar y gestionar los contenedores y recursos en aplicaciones y servicios. Dependiendo de la plataforma de contenedores que se utiliza existen herramientas de orquestación que ofrecen o no compatibilidad. Las herramientas de orquestación están enfocados a manejar escalabilidad y monitoreo de los contenedores que conforman una aplicación. Existen diferentes tipos de orquestación mostrados a continuación:
+     Las herramientas de orquestación permiten manejar y gestionar los contenedores y recursos en aplicaciones y servicios. Dependiendo de la plataforma de contenedores que se utiliza existen herramientas de orquestación que ofrecen o no compatibilidad. Las herramientas de orquestación están enfocados a manejar escalabilidad y monitoreo de los contenedores que conforman una aplicación. Existen diferentes tipos de orquestación mostrados a continuación:
   
   _Kubernetes_
 
